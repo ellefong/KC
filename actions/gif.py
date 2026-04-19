@@ -1,0 +1,1 @@
+#This is to implement the gifs as a response for the discord bot
